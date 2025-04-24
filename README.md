@@ -37,10 +37,3 @@ This method works on Windows, macOS, and Linux but requires you to have Python i
     python search_inventory_gui.py
     ```
 5.  The application window should open, and it will ask you to select your lab's Excel inventory file.
-
-## Notes
-
-*   This application reads your inventory file; it does not modify it.
-*   You need your own exported `.xlsx` or `.xls` inventory file to use this tool.
-
-*(Optional: Add sections for Contributing, Bug Reports, License)*
